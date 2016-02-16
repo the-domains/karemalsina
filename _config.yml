@@ -1,0 +1,28 @@
+name: karemalsina
+favicon: null
+layout_spectrum: 0.312941565643996
+typography_spectrum: 0.20076679927296937
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5726913814432919
+  lightness: 0.5939808625262231
+  saturation: 0.9357807345222682
+  rhythmicContrast: 0.5960085080005229
+purpose: []
