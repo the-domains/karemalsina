@@ -1,4 +1,4 @@
-name: karemalsina
+name: 'karem alsina '
 favicon: null
 layout_spectrum: 0.73239
 typography_spectrum: 0.237
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#8a8a8a'
-    - '#fa73b0'
-    - '#890850'
-    - '#c34b7f'
+    - '#f4f9ff'
+    - '#3874bc'
+    - '#90ccfe'
+    - '#1d476d'
+    - '#0f161c'
   brandStrength: 0.5726913814432919
   lightness: 0.5939808625262231
   saturation: 0.9357807345222682
