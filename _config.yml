@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0
   brandStrength: 0
-  rhythmicContrast: 0
-  brandColors:
-    - '#265a70'
-    - '#42829b'
-    - '#8ac0b7'
-    - '#91deeb'
-    - '#ccfdfb'
   lightness: 1
+  brandColors:
+    - '#060402'
+    - '#2F2820'
+    - '#808076'
+    - '#5C5B54'
+    - '#FFFFFF'
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: 'karem alsina '
 favicon: null
+name: 'karem alsina '
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.16252
-layout_spectrum: 0.3978495
+typography_spectrum: 0.3763441
+layout_spectrum: 0.5035842
