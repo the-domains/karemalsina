@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '“I must have flowers, always, and always.” Claude Monet'
-datePublished: '2016-05-13T17:32:08.830Z'
-dateModified: '2016-05-13T17:32:02.640Z'
+datePublished: '2016-05-13T17:49:36.497Z'
+dateModified: '2016-05-13T17:32:31.442Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-29-i-must-have-flowers-always-and-always-claude-monet.md
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: i-must-have-flowers-always-and-always-claude-monet/index.html
 _type: Article
 
