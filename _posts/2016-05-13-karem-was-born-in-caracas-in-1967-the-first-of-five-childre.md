@@ -4,23 +4,25 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Karem was born in Caracas in 1967, the first of five children. At age 11,she was sent to school in London, where she started painting, drawing, and capturing images, giving her creative ideas form. '
-datePublished: '2016-05-13T17:38:18.718Z'
-dateModified: '2016-05-13T17:37:50.043Z'
+description: 'Karem was born in Caracas in 1967, the first of five children. At age 11,she was sent to school in London, where she started painting, drawing, and capturing images, giving her creative ideas form.'
+datePublished: '2016-05-13T17:50:52.109Z'
+dateModified: '2016-05-13T17:50:44.055Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-13-karem-was-born-in-caracas-in-1967-the-first-of-five-childre.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-05-13-karem-was-born-in-caracas-in-1967-the-first-of-five-childre.md
+starred: true
 url: karem-was-born-in-caracas-in-1967-the-first-of-five-childre/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44f6e745-78fb-482a-8810-3b8af10f6ad9.jpg)
+
 Karem was born in Caracas in 1967, the first of five children. At age 11,she was sent to school in London, where she started painting, drawing, and capturing images, giving her creative ideas form.
 
 As Karem grew up, she did not abandon her brushes. Becoming an International Professional Makeup Artist based out of New York City for more than 20 years, she transformed her subjects for special events, television, theater, fashion and advertising.
