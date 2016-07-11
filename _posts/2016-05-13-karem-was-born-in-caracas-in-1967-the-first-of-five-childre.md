@@ -4,24 +4,27 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Karem was born in Caracas in 1967, the first of five children. At age 11,she was sent to school in London, where she started painting, drawing, and capturing images, giving her creative ideas form.'
-datePublished: '2016-05-13T17:50:52.109Z'
-dateModified: '2016-05-13T17:50:44.055Z'
+description: >-
+  Karem was born in Caracas in 1967, the first of five children. At age 11,she
+  was sent to school in London, where she started painting, drawing, and
+  capturing images, giving her creative ideas form.
+datePublished: '2016-07-11T13:13:31.716Z'
+dateModified: '2016-07-11T13:13:21.276Z'
 title: ''
 author: []
-sourcePath: _posts/2016-05-13-karem-was-born-in-caracas-in-1967-the-first-of-five-childre.md
+sourcePath: >-
+  _posts/2016-05-13-karem-was-born-in-caracas-in-1967-the-first-of-five-childre.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: true
 url: karem-was-born-in-caracas-in-1967-the-first-of-five-childre/index.html
 _type: Article
 
 ---
+[][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44f6e745-78fb-482a-8810-3b8af10f6ad9.jpg)
+
+[][0]
 
 Karem was born in Caracas in 1967, the first of five children. At age 11,she was sent to school in London, where she started painting, drawing, and capturing images, giving her creative ideas form.
 
@@ -39,3 +42,5 @@ Her third is digital photography, concentrating in Fine Art. Her subjects range 
 Her fourth period is Video Art, where she combines different technologies to expose and explore sensory limits. Using moving pictures with sound has opened a flood of possibilities for her artistic range.
 
 No matter what professional hat Karem wears, she has never stopped doing art, exploring and discovering new ways to express her visions.
+
+[0]: http://karemalsina.com/
