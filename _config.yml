@@ -1,7 +1,18 @@
+layout_spectrum: 0.3452906997408718
+typography_spectrum: 0.3849386901129037
+color:
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+  brandStrength: 0.44549209461547434
+  lightness: 0.11654809955507517
+  saturation: 0.45832505519501865
+  rhythmicContrast: 0.41524929204024374
 name: 'karem alsina '
 favicon: null
-layout_spectrum: 0.5035842
-typography_spectrum: 0.3763441
 title: karem alsina
 collections:
   - index:
@@ -27,15 +38,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#ce0013'
-    - '#fffd37'
-    - '#0778fb'
-    - '#f0a365'
-  brandStrength: 1
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
 purpose: []
